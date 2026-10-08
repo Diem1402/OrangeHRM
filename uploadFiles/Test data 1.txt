@@ -1,0 +1,28 @@
+EMPLOYMENT CONTRACT
+
+This Employment Contract ("Agreement") is entered into as of September 10, 2026, by and between:
+
+EMPLOYER: OrangeHRM Vietnam Co., Ltd.
+EMPLOYEE: Diem Nguyen (Employee ID: 57)
+
+1. POSITION AND DUTIES
+The Employee is hired for the position of Automation Test Engineer. The Employee agrees to perform all duties and responsibilities assigned under the Quality Assurance department.
+
+2. TERM OF EMPLOYMENT
+- Contract Start Date: September 10, 2026
+- Contract End Date: September 10, 2027
+- Employment Status: Full-Time Contract
+
+3. COMPENSATION AND BENEFITS
+- Salary: As specified in the annex of this contract.
+- Benefits: Standard medical, insurance, and leave entitlements as per company policy.
+
+4. CONFIDENTIALITY & GOVERNING LAW
+The Employee agrees to maintain strict confidentiality regarding company software, test cases, and credentials. This contract is governed by the laws of Vietnam.
+
+IN WITNESS WHEREOF, the parties have executed this agreement as of the date first written above.
+
+
+________________________                 ________________________
+Employer Representative                  Employee Signature
+(OrangeHRM Vietnam)                      (Diem Nguyen)
